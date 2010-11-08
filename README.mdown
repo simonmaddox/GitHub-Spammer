@@ -1,4 +1,5 @@
 # GitHub Spammer
+**by Simon Maddox**
 
 When looking at the GitHub API docs this evening, I noticed that they give out
 email addresses over unauthenticated API requests.
